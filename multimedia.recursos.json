@@ -1,0 +1,692 @@
+[{
+  "_id": {
+    "$oid": "68917e9c71dcb3c8abe9863e"
+  },
+  "nombre_recurso": "Gigantes de Acero",
+  "genero": "accion",
+  "formato": "pelicula",
+  "plataforma": "netflix",
+  "estado": "pendiente",
+  "id_usuario": {
+    "$oid": "68917305fdb9f8d57d98833d"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917e9c71dcb3c8abe9863f"
+  },
+  "nombre_recurso": "El Señor de los Anillos",
+  "genero": "fantasia",
+  "formato": "pelicula",
+  "plataforma": "hbo",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831dd"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917e9c71dcb3c8abe98640"
+  },
+  "nombre_recurso": "Breaking Bad",
+  "genero": "drama",
+  "formato": "serie",
+  "plataforma": "netflix",
+  "estado": "finalizada",
+  "valoracion": 5,
+  "reseña": "Una de las mejores series que he visto",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831de"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917e9c71dcb3c8abe98641"
+  },
+  "nombre_recurso": "Harry Potter y la piedra filosofal",
+  "genero": "fantasia",
+  "formato": "libro",
+  "plataforma": "kindle",
+  "estado": "pendiente",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831df"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917e9c71dcb3c8abe98642"
+  },
+  "nombre_recurso": "Stranger Things",
+  "genero": "ciencia ficcion",
+  "formato": "serie",
+  "plataforma": "netflix",
+  "estado": "finalizada",
+  "valoracion": 4,
+  "reseña": "Buena historia, efectos geniales",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917e9c71dcb3c8abe98643"
+  },
+  "nombre_recurso": "1984",
+  "genero": "distopia",
+  "formato": "libro",
+  "plataforma": "google books",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917e9c71dcb3c8abe98644"
+  },
+  "nombre_recurso": "El Código Da Vinci",
+  "genero": "misterio",
+  "formato": "libro",
+  "plataforma": "kindle",
+  "estado": "finalizada",
+  "valoracion": 4,
+  "reseña": "Interesante y atrapante desde el inicio",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917e9c71dcb3c8abe98645"
+  },
+  "nombre_recurso": "Black Mirror",
+  "genero": "ciencia ficcion",
+  "formato": "serie",
+  "plataforma": "netflix",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917e9c71dcb3c8abe98646"
+  },
+  "nombre_recurso": "Matrix",
+  "genero": "accion",
+  "formato": "pelicula",
+  "plataforma": "hbo",
+  "estado": "finalizada",
+  "valoracion": 5,
+  "reseña": "Un clásico de la ciencia ficción",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917e9c71dcb3c8abe98647"
+  },
+  "nombre_recurso": "Orgullo y prejuicio",
+  "genero": "romance",
+  "formato": "libro",
+  "plataforma": "audible",
+  "estado": "pendiente",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e5"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917ed66340ca750aaf058f"
+  },
+  "nombre_recurso": "The Crown",
+  "genero": "drama histórico",
+  "formato": "serie",
+  "plataforma": "netflix",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e6"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917ed66340ca750aaf0590"
+  },
+  "nombre_recurso": "Interestelar",
+  "genero": "ciencia ficcion",
+  "formato": "pelicula",
+  "plataforma": "amazon prime",
+  "estado": "finalizada",
+  "valoracion": 5,
+  "reseña": "Visualmente impactante y con gran mensaje",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e7"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917ed66340ca750aaf0591"
+  },
+  "nombre_recurso": "El psicoanalista",
+  "genero": "suspenso",
+  "formato": "libro",
+  "plataforma": "kindle",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e8"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917ed66340ca750aaf0592"
+  },
+  "nombre_recurso": "Merlina",
+  "genero": "fantasia",
+  "formato": "serie",
+  "plataforma": "netflix",
+  "estado": "finalizada",
+  "valoracion": 4,
+  "reseña": "Entretenida y visualmente atractiva",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e9"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917ed66340ca750aaf0593"
+  },
+  "nombre_recurso": "Coco",
+  "genero": "animacion",
+  "formato": "pelicula",
+  "plataforma": "disney+",
+  "estado": "pendiente",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831ea"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917ed66340ca750aaf0594"
+  },
+  "nombre_recurso": "You",
+  "genero": "thriller",
+  "formato": "serie",
+  "plataforma": "netflix",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831eb"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917ed66340ca750aaf0595"
+  },
+  "nombre_recurso": "Rebelión en la granja",
+  "genero": "satira politica",
+  "formato": "libro",
+  "plataforma": "audible",
+  "estado": "finalizada",
+  "valoracion": 5,
+  "reseña": "Crítica poderosa al totalitarismo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831ec"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917ed66340ca750aaf0596"
+  },
+  "nombre_recurso": "Avatar",
+  "genero": "aventura",
+  "formato": "pelicula",
+  "plataforma": "disney+",
+  "estado": "pendiente",
+  "id_usuario": {
+    "$oid": "68917305fdb9f8d57d98833d"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917ed66340ca750aaf0597"
+  },
+  "nombre_recurso": "Mindhunter",
+  "genero": "crimen",
+  "formato": "serie",
+  "plataforma": "netflix",
+  "estado": "finalizada",
+  "valoracion": 5,
+  "reseña": "Muy buena serie de investigación",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831dd"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917ed66340ca750aaf0598"
+  },
+  "nombre_recurso": "It",
+  "genero": "terror",
+  "formato": "pelicula",
+  "plataforma": "hbo",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831de"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f040f9d507c6bd2ab2a"
+  },
+  "nombre_recurso": "La casa de papel",
+  "genero": "accion",
+  "formato": "serie",
+  "plataforma": "netflix",
+  "estado": "finalizada",
+  "valoracion": 4,
+  "reseña": "Muy emocionante, aunque exagerada a veces",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831df"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f040f9d507c6bd2ab2b"
+  },
+  "nombre_recurso": "Duna",
+  "genero": "ciencia ficcion",
+  "formato": "pelicula",
+  "plataforma": "hbo",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f040f9d507c6bd2ab2c"
+  },
+  "nombre_recurso": "Crónica de una muerte anunciada",
+  "genero": "drama",
+  "formato": "libro",
+  "plataforma": "google books",
+  "estado": "pendiente",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f040f9d507c6bd2ab2d"
+  },
+  "nombre_recurso": "The Office",
+  "genero": "comedia",
+  "formato": "serie",
+  "plataforma": "amazon prime",
+  "estado": "finalizada",
+  "valoracion": 5,
+  "reseña": "Divertidísima, humor inteligente",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f040f9d507c6bd2ab2e"
+  },
+  "nombre_recurso": "La ladrona de libros",
+  "genero": "drama histórico",
+  "formato": "libro",
+  "plataforma": "audible",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f040f9d507c6bd2ab2f"
+  },
+  "nombre_recurso": "Shrek",
+  "genero": "animacion",
+  "formato": "pelicula",
+  "plataforma": "netflix",
+  "estado": "finalizada",
+  "valoracion": 5,
+  "reseña": "Un clásico divertido y para toda la familia",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f040f9d507c6bd2ab30"
+  },
+  "nombre_recurso": "Los juegos del hambre",
+  "genero": "aventura",
+  "formato": "libro",
+  "plataforma": "kindle",
+  "estado": "pendiente",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e5"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f040f9d507c6bd2ab31"
+  },
+  "nombre_recurso": "Dark",
+  "genero": "ciencia ficcion",
+  "formato": "serie",
+  "plataforma": "netflix",
+  "estado": "finalizada",
+  "valoracion": 5,
+  "reseña": "Intrincada pero brillante",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e6"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f040f9d507c6bd2ab32"
+  },
+  "nombre_recurso": "Coraline",
+  "genero": "fantasia",
+  "formato": "pelicula",
+  "plataforma": "netflix",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e7"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f040f9d507c6bd2ab33"
+  },
+  "nombre_recurso": "Fahrenheit 451",
+  "genero": "distopia",
+  "formato": "libro",
+  "plataforma": "google books",
+  "estado": "finalizada",
+  "valoracion": 4,
+  "reseña": "Muy interesante y con fuerte mensaje",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e8"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f1f0f9d507c6bd2ab34"
+  },
+  "nombre_recurso": "Sherlock",
+  "genero": "misterio",
+  "formato": "serie",
+  "plataforma": "netflix",
+  "estado": "finalizada",
+  "valoracion": 5,
+  "reseña": "Brillante actuación y tramas envolventes",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e9"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f1f0f9d507c6bd2ab35"
+  },
+  "nombre_recurso": "Soul",
+  "genero": "animacion",
+  "formato": "pelicula",
+  "plataforma": "disney+",
+  "estado": "pendiente",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831ea"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f1f0f9d507c6bd2ab36"
+  },
+  "nombre_recurso": "Cien años de soledad",
+  "genero": "realismo mágico",
+  "formato": "libro",
+  "plataforma": "kindle",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831eb"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f1f0f9d507c6bd2ab37"
+  },
+  "nombre_recurso": "Friends",
+  "genero": "comedia",
+  "formato": "serie",
+  "plataforma": "hbo",
+  "estado": "finalizada",
+  "valoracion": 4,
+  "reseña": "Divertida y entrañable",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831ec"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f1f0f9d507c6bd2ab38"
+  },
+  "nombre_recurso": "El gran Gatsby",
+  "genero": "drama",
+  "formato": "libro",
+  "plataforma": "audible",
+  "estado": "finalizada",
+  "valoracion": 3,
+  "reseña": "Un poco lento, pero con buenos diálogos",
+  "id_usuario": {
+    "$oid": "68917305fdb9f8d57d98833d"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f1f0f9d507c6bd2ab39"
+  },
+  "nombre_recurso": "El hoyo",
+  "genero": "suspenso",
+  "formato": "pelicula",
+  "plataforma": "netflix",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831dd"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f1f0f9d507c6bd2ab3a"
+  },
+  "nombre_recurso": "The Mandalorian",
+  "genero": "ciencia ficcion",
+  "formato": "serie",
+  "plataforma": "disney+",
+  "estado": "pendiente",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831de"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f1f0f9d507c6bd2ab3b"
+  },
+  "nombre_recurso": "El Principito",
+  "genero": "fantasia",
+  "formato": "libro",
+  "plataforma": "kindle",
+  "estado": "finalizada",
+  "valoracion": 5,
+  "reseña": "Pequeño libro con grandes enseñanzas",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831df"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f1f0f9d507c6bd2ab3c"
+  },
+  "nombre_recurso": "Coco Chanel",
+  "genero": "biografia",
+  "formato": "pelicula",
+  "plataforma": "amazon prime",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f1f0f9d507c6bd2ab3d"
+  },
+  "nombre_recurso": "La chica del tren",
+  "genero": "suspenso",
+  "formato": "libro",
+  "plataforma": "google books",
+  "estado": "pendiente",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f340f9d507c6bd2ab3e"
+  },
+  "nombre_recurso": "The Last of Us",
+  "genero": "drama",
+  "formato": "serie",
+  "plataforma": "hbo",
+  "estado": "finalizada",
+  "valoracion": 5,
+  "reseña": "Emotiva, bien actuada y visualmente impactante",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f340f9d507c6bd2ab3f"
+  },
+  "nombre_recurso": "Encanto",
+  "genero": "animacion",
+  "formato": "pelicula",
+  "plataforma": "disney+",
+  "estado": "pendiente",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f340f9d507c6bd2ab40"
+  },
+  "nombre_recurso": "El Alquimista",
+  "genero": "ficcion espiritual",
+  "formato": "libro",
+  "plataforma": "audible",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f340f9d507c6bd2ab41"
+  },
+  "nombre_recurso": "The Boys",
+  "genero": "accion",
+  "formato": "serie",
+  "plataforma": "amazon prime",
+  "estado": "finalizada",
+  "valoracion": 4,
+  "reseña": "Oscura, irreverente y adictiva",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e5"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f340f9d507c6bd2ab42"
+  },
+  "nombre_recurso": "La forma del agua",
+  "genero": "fantasia",
+  "formato": "pelicula",
+  "plataforma": "star+",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e6"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f340f9d507c6bd2ab43"
+  },
+  "nombre_recurso": "Los pilares de la tierra",
+  "genero": "drama histórico",
+  "formato": "libro",
+  "plataforma": "kindle",
+  "estado": "pendiente",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e7"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f340f9d507c6bd2ab44"
+  },
+  "nombre_recurso": "The Witcher",
+  "genero": "fantasia",
+  "formato": "serie",
+  "plataforma": "netflix",
+  "estado": "finalizada",
+  "valoracion": 4,
+  "reseña": "Gran ambientación y acción",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e8"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f340f9d507c6bd2ab45"
+  },
+  "nombre_recurso": "Toy Story 4",
+  "genero": "animacion",
+  "formato": "pelicula",
+  "plataforma": "disney+",
+  "estado": "pendiente",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831e9"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f340f9d507c6bd2ab46"
+  },
+  "nombre_recurso": "It Ends With Us",
+  "genero": "romance",
+  "formato": "libro",
+  "plataforma": "google books",
+  "estado": "viendo",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831ea"
+  }
+},
+{
+  "_id": {
+    "$oid": "68917f340f9d507c6bd2ab47"
+  },
+  "nombre_recurso": "Better Call Saul",
+  "genero": "drama legal",
+  "formato": "serie",
+  "plataforma": "netflix",
+  "estado": "finalizada",
+  "valoracion": 5,
+  "reseña": "Un spin-off magistralmente escrito",
+  "id_usuario": {
+    "$oid": "68917bc58b4178324be831eb"
+  }
+}]
